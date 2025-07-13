@@ -1,3 +1,3 @@
 # suman-demo
-This is my first GIT Repository 
-suman pokharel 
+This is my first GIT Repository suman pokharel 
+
